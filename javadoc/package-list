@@ -1,0 +1,6 @@
+png.manager.checker
+png.manager.decoder
+png.manager.entity
+png.manager.exception
+png.manager.gui
+png.manager.miscellaneous
