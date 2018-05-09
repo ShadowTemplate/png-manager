@@ -1,4 +1,4 @@
-# Project Template (Project Title)
+# PNG Manager
 
 A didactic implementation of a PNG viewer and editor.
 
@@ -23,7 +23,7 @@ Clone the repository and run the program:
 ```
 $ git clone https://github.com/ShadowTemplate/png-manager.git
 $ cd png-manager/
-$ java -jar "PNG Manager.jar""
+$ java -jar "PNG Manager.jar"
 ```
 
 ---
