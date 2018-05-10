@@ -13,7 +13,7 @@ A didactic implementation of a PNG viewer and editor.
 
 **Development year(s)**: `2014`
 
-**Authors**: [ShadowTemplate](https://github.com/ShadowTemplate)
+**Author(s)**: [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
 ## Getting Started
